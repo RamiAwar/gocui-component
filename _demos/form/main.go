@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/jroimartin/gocui"
-	component "github.com/skanehira/gocui-component"
+	"github.com/awesome-gocui/gocui"
+	component "github.com/ramiawar/gocui-component"
 )
 
 type signup struct {

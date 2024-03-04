@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/jroimartin/gocui"
-	component "github.com/skanehira/gocui-component"
+	"github.com/awesome-gocui/gocui"
+	component "github.com/ramiawar/gocui-component"
 )
 
 type demo struct {
